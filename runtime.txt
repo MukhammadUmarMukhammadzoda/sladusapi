@@ -1,2 +1,1 @@
 python-3.10.0
-whitenoise==6.0.0
